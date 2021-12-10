@@ -1,0 +1,44 @@
+#header-nav{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand h1{
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    color: white;
+}
+#invisible-nav {
+    /*background-color: white;*/
+    color: black;
+    text-align: center;
+    font-size: .8em;
+}
+#invisible-nav ul{
+    background-color: white;
+}
+#invisible-nav ul li{
+    border-bottom: 1px solid black;
+
+}
+
+h1.text-center{
+    font-weight: bold;
+    font-size: 2.5em;
+}
+div.col-xs-12{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+   /* height: 1000px;*/
+}
+h2.text-center{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
